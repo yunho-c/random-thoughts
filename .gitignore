@@ -4,3 +4,6 @@
 .jekyll-cache
 _site
 Gemfile.lock
+
+# MacOS
+.DS_Store
