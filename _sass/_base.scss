@@ -1,17 +1,20 @@
 body {
   background: $brand-color;
   color: $text-color;
-  font-family: $font-family;
+  // font-family: $font-family;
+  font-family: "Noto Serif KR";
   font-size: 1.3125em;
   line-height: 1.5;
 }
 
 h1 {
+  font-family: $font-family;
   font-size: 3em;
   margin: .5em auto;
 }
 
 h2 {
+  font-family: $font-family;
   font-size: 2em;
   margin: 1em auto;
   text-align: center;
