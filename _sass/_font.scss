@@ -12,3 +12,19 @@
        url('#{$asset_url}/fonts/eb-garamond-v9-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
        url('#{$asset_url}/fonts/eb-garamond-v9-latin-regular.svg#EBGaramond') format('svg'); /* Legacy iOS */
 }
+
+/* noto-serif-korean */
+@font-face {
+  font-family: 'Noto Serif KR';
+  font-style: normal;
+  font-weight: 300;
+  // font-weight: 400;
+  font-display: auto;
+  src: url('#{$asset_url}/fonts/NotoSerifKR-Black.ttf'); /* IE9 Compat Modes */
+  src: local('Noto Serif KR'),
+       url('#{$asset_url}/fonts/NotoSerifKR-VariableFont_wght.ttf') format('truetype'),
+       url('#{$asset_url}/fonts/NotoSerifKR-Regular.ttf') format('truetype'),
+       url('#{$asset_url}/fonts/NotoSerifKR-Medium.ttf') format('truetype'),
+       url('#{$asset_url}/fonts/NotoSerifKR-Bold.ttf') format('truetype'),
+       url('#{$asset_url}/fonts/NotoSerifKR-Black.ttf') format('truetype'),
+}
