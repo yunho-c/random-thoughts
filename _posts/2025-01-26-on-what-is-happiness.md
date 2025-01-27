@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "조윤호의 마음사전"
+title: "행복이란 무엇일까?"
 author: "Yunho Cho"
 categories: philosophy
 ---
