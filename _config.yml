@@ -44,4 +44,4 @@ plugins:
   - jekyll-paginate
 
 paginate: 3
-paginate_path: "https://random-thoughts.yunhocho.com/page/:num/"
+paginate_path: "random-thoughts.yunhocho.com/page/:num/"
