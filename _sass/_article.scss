@@ -38,12 +38,18 @@
 .post dl,
 .post ul,
 .post ol {
-  margin: 1.5em;
+  margin: 1.5em 0;
+  padding-left: 1.5em;
 }
 
 .post li {
-  margin-left: 1.5rem;
-  margin-right: 1.5rem;
+  margin: .5em 0;
+}
+
+.post li > ul,
+.post li > ol {
+  margin: .5em 0;
+  padding-left: 1.5em;
 }
 
 .post-content:first-child {
